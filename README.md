@@ -35,7 +35,6 @@ This system serves as Version 1 in a two-stage intelligent waste management pipe
 ---
 
 ## Architecture
-Place this file inside `docs/smart_dustbin_architecture.png` and ensure the folder structure is correct.
 
 ![Architecture](docs/smart_dustbin_architecture.png)
 
