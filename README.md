@@ -86,3 +86,11 @@ This system serves as Version 1 in a two-stage intelligent waste management pipe
 Together, they form a complete intelligent waste management solution.
 
 ---
+
+## Newspaper Publication
+![Article](docs/article_nexus.jpg)
+
+---
+
+## Source Code
+ 
