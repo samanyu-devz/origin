@@ -93,4 +93,5 @@ Together, they form a complete intelligent waste management solution.
 ---
 
 ## Source Code
+[Origin - Smart Bin Code](src/bin.ino)
  
