@@ -88,7 +88,7 @@ Together, they form a complete intelligent waste management solution.
 ---
 
 ## Newspaper Publication
-![Article](docs/article_nexus.jpg)
+![Article](docs/article_origin.png)
 
 ---
 
